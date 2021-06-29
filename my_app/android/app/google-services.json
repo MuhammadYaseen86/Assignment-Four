@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335170674533",
+    "project_id": "flutte-lr",
+    "storage_bucket": "flutte-lr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335170674533:android:764f3af2cc346e2f190b8c",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335170674533-s0e8cqh8h5299c8stp75c7cvhn6phkjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnKEhZeZULQ3ztJ5pH7NVooBgH7_xz4Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335170674533-s0e8cqh8h5299c8stp75c7cvhn6phkjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
